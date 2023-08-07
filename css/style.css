@@ -1,0 +1,19 @@
+.negri{
+    font-weight: 900;
+}
+.cursi{
+    font-style: italic;
+}
+.fondo{
+    background-color: beige;
+}
+.fonaba{
+    background-color: bisque;
+}
+.formu{
+  
+     border-bottom: 100px;
+     border-top: 100px;
+     border-left: 150px;
+     border-right: 100px;
+}
